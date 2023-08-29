@@ -7,6 +7,8 @@ import time
 import webbrowser
 import requests
 from PyQt5.QtCore import Qt
+import git
+import os
 
 
 class PaginaInicial(QWidget):
