@@ -71,7 +71,7 @@ class PaginaInicial(QWidget):
 class FrasesApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("[CS] AVerse")
+        self.setWindowTitle("[CS] 123")
         self.setFixedSize(230, 380)
         self.setWindowFlags(self.windowFlags() | Qt.WindowStaysOnTopHint)
         self.setWindowIcon(QIcon("assets/dme.ico"))
